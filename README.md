@@ -1,4 +1,4 @@
-# 🔹 Blue_System – Simulador de Fluxo SESI
+# 🔹 Blue System
 
 Este projeto é um **simulador interativo de jornadas de pacientes em clínicas SESI**, desenvolvido com **Streamlit**.  
 Ele permite **visualizar, analisar e otimizar o fluxo de exames**, oferecendo perspectivas tanto para **gestores** quanto para **funcionários/pacientes**.
